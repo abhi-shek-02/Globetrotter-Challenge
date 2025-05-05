@@ -15,7 +15,7 @@ npm run dev
 ```
 
 
-
+URL :- https://globetrotter-challenge-orti49jkr-abhishek02s-projects.vercel.app/
 
 ## What technologies are used for this project?
 
